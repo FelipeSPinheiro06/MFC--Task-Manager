@@ -1,4 +1,4 @@
-# Projeto FTC
+# Projeto MFC
 
 <h3>Projeto de Gerenciamento de Tarefas com Microsserviços.</h3>
 
@@ -14,31 +14,31 @@
 </p>
 
 ## 📌 Objetivo do Projeto
-<p>Nosso objetivo é criar um um app de gerenciamento de tarefas rápido e prático usando as tecnologias mais recentes do mercado</p>
+<p>O objetivo do nosso projeto é desenvolver uma plataforma eficiente que permita aos usuários criar, organizar, acompanhar e concluir tarefas de maneira intuitiva, aumentando a produtividade e facilitando a gestão de projetos e atividades diárias.</p>
+
 
 ## 📦 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). <br>
-Além disto, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/). 
+[Git](https://git-scm.com), [Docker](https://www.docker.com/).<br>
+Além disto, é bom ter um software de testes de API (Postman, Insomnia, Yaak)
 
-No Visual Studio Code, instale:
-* Extension Pack for Java;
-* Spring Boot Extension Pack.
 
 ### 🎲 Rodando o Back-End
 
 ```bash
-# Vá para o arquivo principal e clique em Run:
-- FTCApplication.java
+# Clone o nosso projeto
+$ git clone https://github.com/FelipeSPinheiro06/MFC--Task-Manager
+```
 
-# O servidor inciará na porta:8080 - acesse <http://localhost:8080>
+```docker
+# No terminal, digite:
+$ docker-compose up -d --build
 ```
 
 ## 💫 Features
 
 O nosso projeto tem:
 
-- [ ] Front-End
 - [ ] Back-End
 - [ ] Banco de Dados
 
@@ -47,20 +47,21 @@ O nosso projeto tem:
 
 🚀 Para ver o nosso projeto funcionando, acesse este link do youtube
 
+
 ## ⚒️ Tecnologias
 
 Para esse projeto, foi utilizado:
 
-- Banco de Dados Oracle;
-- Docker Compose;
+- Banco de Dados MySQL;
+- Docker;
 - Java;
-- ReactJS.
+
 
 ## 🖋️ Autores
 
 Os autores do grupo são:
 
-- Cayque Pereira dos Santos - RM:
-- Felipe Cardoso Torlai - RM:
-- Felipe Santos Pinheiro - RM: 550244
-- Matheus Estevo Pereira Santos - RM:
+- Cayque Pereira dos Santos - RM551353
+- Felipe Cardoso Torlai - RM550263
+- Felipe Santos Pinheiro - RM550244
+- Matheus Estevo Pereira Santos - RM550913
