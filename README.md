@@ -8,7 +8,7 @@
  <a href="#objetivo-do-projeto">Objetivo</a> •
  <a href="#-pré-requisitos">Pré-Requisitos</a> • 
  <a href="#-features">Features</a> • 
- <a href="#-vídeo-do-funcionamento">Vídeo</a> • 
+ <a href="#-diagrama-de-desenvolvimento">Diagrama</a> • 
  <a href="#️-tecnologias">Tecnologias</a> •  
  <a href="#️-autores">Autores</a>
 </p>
@@ -43,9 +43,11 @@ O nosso projeto tem:
 - [ ] Banco de Dados
 
 
-## 📹 Vídeo do Funcionamento
+## 📈 Diagrama de Desenvolvimento
 
-🚀 Para ver o nosso projeto funcionando, acesse este link do youtube
+<p>Este é o nosso diagrama de desenvolvimento:</p>
+
+<img src="src/images/Diagrama de Desenvolvimento.png"/>
 
 
 ## ⚒️ Tecnologias
